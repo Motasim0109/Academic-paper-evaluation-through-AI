@@ -114,5 +114,5 @@ If you use this work, please cite:
 
 ```
 Collins, B. & Mauthoor, M. (2026). Investigating Machine Learning Driven Metrics 
-to Evaluate Research Quality. McGill Physical Journal, McGill University.
+to Evaluate Research Quality. McGill University.
 ```
